@@ -1,4 +1,4 @@
-import pandas as pd 
+import pandas as pd  
 import networkx as nx 
 
 #Definimos la base de conocimientos en un DataFrame.
